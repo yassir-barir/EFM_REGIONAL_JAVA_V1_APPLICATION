@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.efm_java_apk_v1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
